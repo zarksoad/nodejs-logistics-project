@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "item": "sasuke",
+    "quantity": 100,
+    "warehouseId": 1
+  },
+  {
+    "id": 2,
+    "item": "sasuke",
+    "quantity": 100,
+    "warehouseId": 1
+  },
+  {
+    "id": 3,
+    "item": "sasuke",
+    "quantity": 100,
+    "warehouseId": 1
+  }
+]
